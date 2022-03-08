@@ -1,6 +1,6 @@
 # SRE Orderbook application
 
-Orderbook is a Java Spring Boot application used for training purposes.  It can be compiled using Maven;
+Orderbook is a Java Spring Boot application used for training purposes.  It can be compiled using Maven;  
 
 ## Building
 
